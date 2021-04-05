@@ -1,0 +1,7 @@
+name = "GenerateProperties"
+uuid = "ad744131-fa5b-4912-8d03-4395d7e5240b"
+authors = ["Kiruse <contact@kiruse.dev>"]
+version = "0.1.0"
+
+[compat]
+julia = "1.1"
